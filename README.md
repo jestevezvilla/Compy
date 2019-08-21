@@ -1,2 +1,0 @@
-# Compy
-Created with CodeSandbox
